@@ -3,7 +3,7 @@ console.log(Add(3,4));
 function Add(x:number,y:number):number{
     return x+y;
 }
-
+ 
 //Anonymous Function
 const sum= function (x:number,y:number):number{
     return x+y;

@@ -19,9 +19,6 @@ const obj={name:'Raj',address:'SItapur'}
 console.log(`Name :  ${obj.name} , Address :  ${obj.address}`);
 console.log('Name : '  + obj.name +', Address : ' + obj.address);
 
-
-
-
 }
 console.log(y);
 
